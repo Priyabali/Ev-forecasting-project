@@ -1,6 +1,3 @@
-# Ev-forecasting-project
-EV charging demand forecast using ML
-
 # EV Charging Demand Forecast 🚗⚡
 
 This Jupyter Notebook forecasts EV (Electric Vehicle) charging demand using historical vehicle registration data in India. The project includes:
